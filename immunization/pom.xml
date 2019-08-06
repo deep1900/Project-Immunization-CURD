@@ -12,7 +12,8 @@
     <artifactId>immunization</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>immunization</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Immunization CRUD API</description>
+    
 
     <properties>
         <java.version>1.8</java.version>
